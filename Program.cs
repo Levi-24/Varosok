@@ -1,4 +1,4 @@
-﻿using Cities;
+﻿using Varosok;
 
 List<City> cities = new();
 using StreamReader reader = new($"../../../src/varosok.csv");

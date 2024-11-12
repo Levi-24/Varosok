@@ -1,4 +1,4 @@
-﻿namespace Cities;
+﻿namespace Varosok;
 
 internal class City
 {
